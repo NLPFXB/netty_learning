@@ -40,6 +40,7 @@ $RECYCLE.BIN/
 .VolumeIcon.icns
 /target/
 .idea
+*.iml
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
